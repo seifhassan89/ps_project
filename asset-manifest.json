@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ps_project/static/css/main.d2deb9b1.chunk.css",
+    "main.js": "/ps_project/static/js/main.6d39d7ff.chunk.js",
+    "main.js.map": "/ps_project/static/js/main.6d39d7ff.chunk.js.map",
+    "runtime-main.js": "/ps_project/static/js/runtime-main.1784d7f3.js",
+    "runtime-main.js.map": "/ps_project/static/js/runtime-main.1784d7f3.js.map",
+    "static/css/2.150d169a.chunk.css": "/ps_project/static/css/2.150d169a.chunk.css",
+    "static/js/2.a96f2274.chunk.js": "/ps_project/static/js/2.a96f2274.chunk.js",
+    "static/js/2.a96f2274.chunk.js.map": "/ps_project/static/js/2.a96f2274.chunk.js.map",
+    "index.html": "/ps_project/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ps_project/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d2deb9b1.chunk.css.map": "/ps_project/static/css/main.d2deb9b1.chunk.css.map",
+    "static/js/2.a96f2274.chunk.js.LICENSE.txt": "/ps_project/static/js/2.a96f2274.chunk.js.LICENSE.txt",
+    "static/media/1.89833567.ce20e1a7.jpg": "/ps_project/static/media/1.89833567.ce20e1a7.jpg",
+    "static/media/2.76edbeaf.8777f27f.jpg": "/ps_project/static/media/2.76edbeaf.8777f27f.jpg",
+    "static/media/africalutre.4d90620a.jpg": "/ps_project/static/media/africalutre.4d90620a.jpg",
+    "static/media/chimical.25aea6d0.jpg": "/ps_project/static/media/chimical.25aea6d0.jpg",
+    "static/media/energatics.52d59d7a.jpg": "/ps_project/static/media/energatics.52d59d7a.jpg",
+    "static/media/food.afde2e98.jpg": "/ps_project/static/media/food.afde2e98.jpg",
+    "static/media/meta.346e7361.jpeg": "/ps_project/static/media/meta.346e7361.jpeg",
+    "static/media/oilandgas.195840bb.webp": "/ps_project/static/media/oilandgas.195840bb.webp",
+    "static/media/product-1.9eee51d3.6c2ec176.jpg": "/ps_project/static/media/product-1.9eee51d3.6c2ec176.jpg",
+    "static/media/product-2.8fd071c4.8010c8eb.jpg": "/ps_project/static/media/product-2.8fd071c4.8010c8eb.jpg",
+    "static/media/product-3.a8286170.73e3bae9.jpg": "/ps_project/static/media/product-3.a8286170.73e3bae9.jpg",
+    "static/media/product-4.1bd78439.5d16deb6.jpg": "/ps_project/static/media/product-4.1bd78439.5d16deb6.jpg",
+    "static/media/product-5.9ff8ea05.a6fdee55.jpg": "/ps_project/static/media/product-5.9ff8ea05.a6fdee55.jpg",
+    "static/media/product-6.8d46930b.4d2e6fae.jpg": "/ps_project/static/media/product-6.8d46930b.4d2e6fae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1784d7f3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a96f2274.chunk.js",
+    "static/css/main.d2deb9b1.chunk.css",
+    "static/js/main.6d39d7ff.chunk.js"
+  ]
+}
